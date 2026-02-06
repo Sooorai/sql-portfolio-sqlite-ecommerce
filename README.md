@@ -98,7 +98,7 @@ This project demonstrates my ability to build a small relational database in SQL
 ## About Me
 - Background: Computer Science student at Seikei University
 - Current location: UK (Working Holiday)
-- English level: B2
+- English level: C1
 - Target roles: Data Analyst Assistant / Junior Data Analyst
 
 ---
