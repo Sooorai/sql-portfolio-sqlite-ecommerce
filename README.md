@@ -101,7 +101,3 @@ This project demonstrates my ability to build a small relational database in SQL
 - English level: C1
 - Target roles: Data Analyst Assistant / Junior Data Analyst
 
----
-
-## Contact
-- GitHub: https://github.com/Sooorai
